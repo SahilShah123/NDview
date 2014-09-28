@@ -1,0 +1,215 @@
+body
+{
+			
+}
+#div-wrapper
+{
+	margin:0px auto;
+	width:900px;
+}
+#div-outer
+{
+  width:900px;	
+  height:130px;
+  background-image:url(../images/ndimages/header.jpg);
+  background-repeat:repeat-x;
+  background-color:#004e85;
+}
+#div-logo
+{
+    width:350px;
+	height:130px;
+	float:left;
+}
+#div-logo-right
+{
+	width:550px;
+	height:130px;
+	float:left;
+}
+#div-menu1
+{
+  width:700px;
+  height:44px;
+  background:none repeat scroll 0 0 #004e85;
+  float:left;
+  clear:left;
+}
+#div-menu2
+{
+  width:200px;
+  height:44px;
+  background:none repeat scroll 0 0 #004e85;
+  float:left;
+}
+.active
+{
+ background-color:red!important;
+}
+#div-v-space
+{
+	width:900px;
+    height:10px;
+	clear:left;
+}
+#div-cloth-type
+{
+	width:140px;
+	height:473px;
+	float:left;
+}
+#div-clothes
+{
+	width:321px;
+	height:530px;
+	border:2px solid #005089;
+	float:left;
+}
+
+#div-avatar
+{
+	width:304px;
+	height:473px;
+	border:2px solid #005089;
+	float:left;
+	background-image:url(../images/dressing-room-bg.png);
+}
+#avatar-left
+{
+   width:20px;
+   height:473px; 
+   padding-top:220px;
+   float:left;
+}
+#avatar-middle
+{
+   width:260px;
+   height:473px;
+   float:left; 
+}
+
+#avatar-right
+{
+   width:20px;
+   height:473px;
+   padding-top:220px;
+   float:left; 
+}
+#avatar-bottom
+{
+	width:302px;
+	height:57px;
+	border:2px solid #005089;
+	clear:both;
+	background-color:#300;
+	font-size:24px;
+	font-family:Verdana, Geneva, sans-serif;
+	color:#fff;
+	padding-left:50px;
+	padding-top:12px;
+}
+.trial
+{
+  cursor:pointer;	
+}
+#div-avatar-right
+{
+    width:105px;
+	height:473px;
+	border:2px solid #005089;
+	float:left;
+}
+#div-avatar-right-top
+{
+    width:105px;
+	height:40px;
+	color:red;
+	font-size:16px;
+	padding-top:10px;
+	font-weight:bold;
+}
+#div-avatar-right-bottom
+{
+    width:105px;
+	height:431px;
+	border-top:2px solid #005089;
+}
+
+#div-h-space
+{
+	width:10px;
+    height:473px;
+    float:left;
+}
+.cloth-desc
+{
+  font-size:14px;
+  background-color:#b12010;	
+  color:#fff;
+}
+.arrow
+{
+  cursor:pointer;
+}
+.footer
+{
+  width:900px;
+  height:150px;
+  background-image:url(../images/ndimages/footer.jpg);
+  clear:left;
+}
+.footer-left
+{
+  width:450px;
+  height:150px;
+  float:left;
+  padding-top:120px;
+  padding-left:10px;
+  color:#fff;
+  font-weight:bold;
+  font-size:16px;
+}
+.footer-right
+{
+  width:450px;
+  height:150px;
+  float:left;
+  padding-top:110px;
+  padding-left:320px;
+}
+.social
+{
+   cursor:pointer;
+}
+#popup
+{
+	background-color:#fff;
+	border-radius:10px 10px 10px 10px;
+	box-shadow:0 0 25px 5px #999;
+	color:#111;
+	display:none;
+	min-width:650px;
+	padding:25px;
+	min-height:500px;
+}
+.rd
+{
+  color:#F00;
+}
+.button
+{
+  background-color: #2B91AF;
+}
+.sbtn
+{
+ 
+}
+.button:hover{background-color:#1e1e1e;cursor:pointer;color:#FFF}.button>span{font-size:84%}.button.bClose{border-radius:7px 7px 7px 7px;box-shadow:none;font:bold 131% sans-serif;padding:0 6px 2px;position:absolute;right:-7px;top:-7px}
+.r
+{
+  color:#03F;	
+}
+#sbmt
+{
+  cursor:pointer;	
+}
